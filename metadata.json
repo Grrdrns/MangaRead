@@ -1,0 +1,6 @@
+{
+  "name": "Manga Reader",
+  "description": "A fully functional manga reader app streaming updates and chapters live from the public MangaDex API, featuring custom search, reading list, history, dark mode theme and seamless navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
